@@ -1,18 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="9DPv36,nXk,Qsvr7/qYT">mySprite</variable><variable type="KIND_SpriteKind" id="VH54zDKu2vcUExw|[;[~">Player</variable><variable type="KIND_SpriteKind" id="2!mUDN+vQK#RQ4lx61;D">Projectile</variable><variable type="KIND_SpriteKind" id=")wmz(qkOJ6QuxVw7#p:4">Food</variable><variable type="KIND_SpriteKind" id="GWXvd=|AIm`ii5L/j*Yu">Enemy</variable></variables><block type="pxt-on-start" id="y`Np)E674U@_zA1u06bb" x="0" y="0"></block><block type="forever" id="A+NDR:/7c`n(cTf1/%L2" x="250" y="130"></block><block type="spritescreatenoset" id="xl2NUs3c`Rq%bA]wGBA#" disabled="true" x="370" y="930"><value name="img"><shadow type="screen_image_picker" id="EcZ210/AmffI;^@M)#cD" disabled="true"><field name="img">img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"EcZ210/AmffI;^@M)#cD"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="^Cn9TB5n,P.__:cYP3A#" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="9DPv36,nXk,Qsvr7/qYT">mySprite</variable><variable type="KIND_SpriteKind" id="VH54zDKu2vcUExw|[;[~">Player</variable><variable type="KIND_SpriteKind" id="2!mUDN+vQK#RQ4lx61;D">Projectile</variable><variable type="KIND_SpriteKind" id=")wmz(qkOJ6QuxVw7#p:4">Food</variable><variable type="KIND_SpriteKind" id="GWXvd=|AIm`ii5L/j*Yu">Enemy</variable></variables><block type="pxt-on-start" id="y`Np)E674U@_zA1u06bb" x="0" y="0"></block></xml>
